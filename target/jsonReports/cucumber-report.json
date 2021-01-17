@@ -1,0 +1,152 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-01-17T15:51:41.597Z",
+        "line": 15,
+        "name": ": Verify whether fetch movies API",
+        "description": "",
+        "id": "verify-whether-fetch-movies-api;:-verify-whether-fetch-movies-api;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 902000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Upcoming movies api is given",
+            "match": {
+              "location": "stepDefinations.FetchMovieStepDefination.upcoming_movies_api_is_given()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5391000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User calls \"GetUpcomingMovies\" API with \"GET\" http request",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"GetUpcomingMovies\"",
+                  "offset": 11
+                },
+                {
+                  "val": "\"GET\"",
+                  "offset": 40
+                }
+              ],
+              "location": "stepDefinations.FetchMovieStepDefination.user_calls_API_with_http_request(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Status code should  200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 20
+                }
+              ],
+              "location": "stepDefinations.FetchMovieStepDefination.status_code_should(java.lang.Integer)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 16000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Movie release date should not be greater than today\u0027s date",
+            "match": {
+              "location": "stepDefinations.FetchMovieStepDefination.movie_release_date_should_not_be_greater_than_today_s_date()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Movie posted URL should only have \".jpg\" format",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\".jpg\"",
+                  "offset": 34
+                }
+              ],
+              "location": "stepDefinations.FetchMovieStepDefination.movie_posted_URL_should_only_have_format(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Paytm movie code is unique",
+            "match": {
+              "location": "stepDefinations.FetchMovieStepDefination.paytm_movie_code_is_unique()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "No movie code should have more than 1 language format",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 36
+                }
+              ],
+              "location": "stepDefinations.FetchMovieStepDefination.no_movie_code_should_have_more_than_language_format(java.lang.Integer)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1184000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Write down name of the all the movies whose content available is 0",
+            "match": {
+              "arguments": [
+                {
+                  "val": "0",
+                  "offset": 65
+                }
+              ],
+              "location": "stepDefinations.FetchMovieStepDefination.write_down_name_of_the_all_the_movies_whose_content_available_is(java.lang.Integer)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Verify whether fetch movies API",
+    "description": "",
+    "id": "verify-whether-fetch-movies-api",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/FetchMoviesFeature.feature",
+    "tags": []
+  }
+]

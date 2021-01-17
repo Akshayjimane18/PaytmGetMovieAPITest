@@ -1,0 +1,3196 @@
+Request method:	GET
+Request URI:	https://apiproxy.paytm.com/v2/movies/upcoming
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Content-Length: 6552
+Server: openresty
+Content-Encoding: gzip
+ETag: W/"8c40-u9qhN1o8vbezPQVUwM1SaGznAn0"
+requestId: e755e3e0-58db-11eb-b852-6b01089264d7
+X-Powered-By: Express
+x-server-time: 1610898706.725
+Date: Sun, 17 Jan 2021 15:51:46 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+
+{
+    "upcomingMovieData": [
+        {
+            "provider_moviename": "Misbehaviour",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-b7147194-6f3b-4d6d-9fad-e1ba87d37647.jpg",
+            "movieTitle": "Misbehaviour",
+            "movie_name": "Misbehaviour",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-01-22",
+            "rank": 46,
+            "paytmMovieCode": "O9W9G9",
+            "isContentAvailable": 1,
+            "contentId": 136071
+        },
+        {
+            "provider_moviename": "Breaking News In Yuba County",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Breaking-News-in-Yuba-County-497803f4-adcf-45e1-a68e-04aaf36d9462.jpg",
+            "movieTitle": "Breaking News In Yuba County",
+            "movie_name": "Breaking News In Yuba County",
+            "language": "English",
+            "genre": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "releaseDate": "2021-01-22",
+            "rank": 46,
+            "paytmMovieCode": "O9XAXI",
+            "isContentAvailable": 1,
+            "contentId": 141335
+        },
+        {
+            "provider_moviename": "Madam Chief Minister",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/cm-madam_-502c1a99-2b19-4f28-96bb-4b87a6feb1fd.jpg",
+            "movieTitle": "Madam Chief Minister",
+            "movie_name": "Madam Chief Minister",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-01-22",
+            "rank": 46,
+            "paytmMovieCode": "O9XHK8",
+            "isContentAvailable": 1,
+            "contentId": 141806
+        },
+        {
+            "provider_moviename": "Bachchan Pandey",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Bachchan-Pandey-84c08857-4cbf-4640-a28e-7de181af810b.jpg",
+            "movieTitle": "Bachchan Pandey",
+            "movie_name": "Bachchan Pandey",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-01-22",
+            "rank": 45,
+            "paytmMovieCode": "O9RPXS",
+            "isContentAvailable": 1,
+            "contentId": 134578
+        },
+        {
+            "provider_moviename": "The Comeback Trail",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/The-Comeback-Trail-e3a95aca-7a1f-47de-9983-414bd713be58.jpg",
+            "movieTitle": "The Comeback Trail",
+            "movie_name": "The Comeback Trail",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Comedy"
+            ],
+            "releaseDate": "2021-02-12",
+            "rank": 44,
+            "paytmMovieCode": "O9XAXJ",
+            "isContentAvailable": 1,
+            "contentId": 141341
+        },
+        {
+            "provider_moviename": "Tom & Jerry",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-28f1eebf-7bc5-4e77-b129-ce32b79e1550.jpg",
+            "movieTitle": "Tom & Jerry",
+            "movie_name": "Tom & Jerry",
+            "language": "English",
+            "genre": [
+                "Comedy",
+                "Family"
+            ],
+            "releaseDate": "2021-02-19",
+            "rank": 43,
+            "paytmMovieCode": "O9XJLN",
+            "isContentAvailable": 1,
+            "contentId": 141813
+        },
+        {
+            "provider_moviename": "Wrong Turn",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-3aa89787-3c56-4175-8d14-750b1000bbeb.jpg",
+            "movieTitle": "Wrong Turn",
+            "movie_name": "Wrong Turn",
+            "language": "English",
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "releaseDate": "2021-01-26",
+            "rank": 40,
+            "paytmMovieCode": "O9XJLM",
+            "isContentAvailable": 1,
+            "contentId": 141884
+        },
+        {
+            "provider_moviename": "Shabaash Mithu",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Shabaash-Mithu-eaf6ff47-3dc0-46c5-a08e-3399dd8204dc.jpg",
+            "movieTitle": "Shabaash Mithu",
+            "movie_name": "Shabaash Mithu",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-02-05",
+            "rank": 40,
+            "paytmMovieCode": "O9VOW3",
+            "isContentAvailable": 1,
+            "contentId": 141218
+        },
+        {
+            "provider_moviename": "The Reckoning",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/the-reckoning-c31ed14d-ed93-4651-9dfe-b332648a255b.jpg",
+            "movieTitle": "The Reckoning",
+            "movie_name": "The Reckoning",
+            "language": "English",
+            "genre": [
+                "Horror",
+                "History"
+            ],
+            "releaseDate": "2021-02-05",
+            "rank": 40,
+            "paytmMovieCode": "O9XAP9",
+            "isContentAvailable": 1,
+            "contentId": 141329
+        },
+        {
+            "provider_moviename": "The Vigil",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/The-Vigil-9544de21-402b-42a2-ba92-15dbfa66fb94.jpg",
+            "movieTitle": "The Vigil",
+            "movie_name": "The Vigil",
+            "language": "English",
+            "genre": [
+                "Horror",
+                "Thriller",
+                "Mystery"
+            ],
+            "releaseDate": "2021-02-26",
+            "rank": 39,
+            "paytmMovieCode": "O9XAXK",
+            "isContentAvailable": 1,
+            "contentId": 141344
+        },
+        {
+            "provider_moviename": "Cherry",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-386c1f56-c1f7-4cbd-a5fa-3f44ccde72d5.jpg",
+            "movieTitle": "Cherry",
+            "movie_name": "Cherry",
+            "language": "English",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "releaseDate": "2021-02-26",
+            "rank": 39,
+            "paytmMovieCode": "O9XJL8",
+            "isContentAvailable": 1,
+            "contentId": 141842
+        },
+        {
+            "provider_moviename": "Haathi Mere Saathi",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-d7fd4f38-73a4-4352-9404-3edc150bdc44.jpg",
+            "movieTitle": "Haathi Mere Saathi",
+            "movie_name": "Haathi Mere Saathi",
+            "language": "Tamil",
+            "genre": [
+                "Drama",
+                "Action"
+            ],
+            "releaseDate": "2021-03-26",
+            "rank": 38,
+            "paytmMovieCode": "O9XGSE",
+            "isContentAvailable": 1,
+            "contentId": 141713
+        },
+        {
+            "provider_moviename": "The Boss Baby: Family Business",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-c3fca2d1-4122-42ee-a7b8-1cf865ee2b74.jpg",
+            "movieTitle": "The Boss Baby: Family Business",
+            "movie_name": "The Boss Baby: Family Business",
+            "language": "English",
+            "genre": [
+                "Animation",
+                "Comedy"
+            ],
+            "releaseDate": "2021-03-26",
+            "rank": 38,
+            "paytmMovieCode": "O9XJLJ",
+            "isContentAvailable": 1,
+            "contentId": 141878
+        },
+        {
+            "provider_moviename": "Bell Bottom",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Bell-bottom-4208ee0c-ba4d-4ef1-8fa3-e73cbb9c29a3.jpg",
+            "movieTitle": "Bell Bottom",
+            "movie_name": "Bell Bottom",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-04-02",
+            "rank": 38,
+            "paytmMovieCode": "O9TAJL",
+            "isContentAvailable": 1,
+            "contentId": 135346
+        },
+        {
+            "provider_moviename": "Peter Rabbit 2: The Runaway",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-7e3ee5e5-2619-45c3-bda7-81c486876153.jpg",
+            "movieTitle": "Peter Rabbit 2: The Runaway",
+            "movie_name": "Peter Rabbit 2: The Runaway",
+            "language": "English",
+            "genre": [
+                "Comedy",
+                "Family"
+            ],
+            "releaseDate": "2021-04-02",
+            "rank": 38,
+            "paytmMovieCode": "O9XGSG",
+            "isContentAvailable": 1,
+            "contentId": 141727
+        },
+        {
+            "provider_moviename": "F9: The Fast Saga",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/F9-97103b9b-101e-4638-92e2-9cf6c09d857b.jpg",
+            "movieTitle": "F9: The Fast Saga",
+            "movie_name": "F9: The Fast Saga",
+            "language": "English",
+            "genre": [
+                "Action"
+            ],
+            "releaseDate": "2021-04-02",
+            "rank": 37,
+            "paytmMovieCode": "O9VB1G",
+            "isContentAvailable": 1,
+            "contentId": 135697
+        },
+        {
+            "provider_moviename": "Black Widow",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Black+Widow+-8765f444-28eb-4abd-8e3a-66461129c4a9.jpg",
+            "movieTitle": "Black Widow",
+            "movie_name": "Black Widow",
+            "language": "English",
+            "genre": [
+                "Action"
+            ],
+            "releaseDate": "2021-05-07",
+            "rank": 36,
+            "paytmMovieCode": "O9TUKD",
+            "isContentAvailable": 1,
+            "contentId": 135365
+        },
+        {
+            "provider_moviename": "Satyameva Jayate 2",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-e2703f92-711f-44d2-9526-c3d9ae42952d.jpg",
+            "movieTitle": "Satyameva Jayate 2",
+            "movie_name": "Satyameva Jayate 2",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "releaseDate": "2021-05-12",
+            "rank": 35,
+            "paytmMovieCode": "O9S6GC",
+            "isContentAvailable": 1,
+            "contentId": 134875
+        },
+        {
+            "provider_moviename": "Ghostbusters: Afterlife",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Ghostbusters--Afterlife-e254d847-db57-447a-bf7a-e719c4e83e73.jpg",
+            "movieTitle": "Ghostbusters: Afterlife",
+            "movie_name": "Ghostbusters: Afterlife",
+            "language": "English",
+            "genre": [
+                "Fantasy",
+                "Comedy"
+            ],
+            "releaseDate": "2021-06-11",
+            "rank": 35,
+            "paytmMovieCode": "O9XGTE",
+            "isContentAvailable": 1,
+            "contentId": 141705
+        },
+        {
+            "provider_moviename": "Venom: Let There Be Carnage",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-813b86c0-045a-426e-951f-088e531d7f50.jpg",
+            "movieTitle": "Venom: Let There Be Carnage",
+            "movie_name": "Venom: Let There Be Carnage",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Drama"
+            ],
+            "releaseDate": "2021-06-25",
+            "rank": 35,
+            "paytmMovieCode": "O9XGSS",
+            "isContentAvailable": 1,
+            "contentId": 141759
+        },
+        {
+            "provider_moviename": "Heropanti 2",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/heropanti-2-e5564424-dce5-49a5-be3c-44c22071f139.jpg",
+            "movieTitle": "Heropanti 2",
+            "movie_name": "Heropanti 2",
+            "language": "Hindi",
+            "genre": [
+                "Action"
+            ],
+            "releaseDate": "2021-07-16",
+            "rank": 35,
+            "paytmMovieCode": "O9VZ56",
+            "isContentAvailable": 1,
+            "contentId": 141221
+        },
+        {
+            "provider_moviename": "Maidaan",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Maidaan-b564084a-6f76-460c-86fb-da32574e0517.jpg",
+            "movieTitle": "Maidaan",
+            "movie_name": "Maidaan",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-08-13",
+            "rank": 34,
+            "paytmMovieCode": "O9V7OX",
+            "isContentAvailable": 1,
+            "contentId": 141220
+        },
+        {
+            "provider_moviename": "The Hitman's Wife's Bodyguard",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-ce3dc0cd-d088-4ed0-af73-32cc20701875.jpg",
+            "movieTitle": "The Hitman's Wife's Bodyguard",
+            "movie_name": "The Hitman's Wife's Bodyguard",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Comedy"
+            ],
+            "releaseDate": "2021-08-19",
+            "rank": 33,
+            "paytmMovieCode": "O9XJLK",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Dune",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-1581a64f-2d35-4dc9-8724-46aa67b707b7.jpg",
+            "movieTitle": "Dune",
+            "movie_name": "Dune",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "releaseDate": "2021-10-01",
+            "rank": 32,
+            "paytmMovieCode": "O9XJLA",
+            "isContentAvailable": 1,
+            "contentId": 141858
+        },
+        {
+            "provider_moviename": "Raksha Bandhan",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-4122f709-f350-49fb-983f-0c712951b3e2.jpg",
+            "movieTitle": "Raksha Bandhan",
+            "movie_name": "Raksha Bandhan",
+            "language": "Hindi",
+            "genre": [
+                "Family",
+                "Drama"
+            ],
+            "releaseDate": "2021-11-05",
+            "rank": 7,
+            "paytmMovieCode": "O9XJLE",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Black Adam",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Black-Adam-965a5675-853d-43a3-b2cb-f39e9f43d165.jpg",
+            "movieTitle": "Black Adam",
+            "movie_name": "Black Adam",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-12-22",
+            "rank": 6,
+            "paytmMovieCode": "O9TFB7",
+            "isContentAvailable": 1,
+            "contentId": 135347
+        },
+        {
+            "provider_moviename": "Takht",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Takat-caee86d8-e15d-45eb-8f24-a537b930d888.jpg",
+            "movieTitle": "Takht",
+            "movie_name": "Takht",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-12-24",
+            "rank": 5,
+            "paytmMovieCode": "O9KFT4",
+            "isContentAvailable": 1,
+            "contentId": 638
+        },
+        {
+            "provider_moviename": "Laal Singh Chaddha",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Lal-Singh-b7fc774f-0edb-4267-801b-b4c569c28c7a.jpg",
+            "movieTitle": "Laal Singh Chaddha",
+            "movie_name": "Laal Singh Chaddha",
+            "language": "Hindi",
+            "genre": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "releaseDate": "2021-12-25",
+            "rank": 4,
+            "paytmMovieCode": "O9TKDP",
+            "isContentAvailable": 1,
+            "contentId": 135345
+        },
+        {
+            "provider_moviename": "355",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-3eef1daa-dc4b-4ef5-b13b-c552e9b1ad9b.jpg",
+            "movieTitle": "355",
+            "movie_name": "355",
+            "language": "English",
+            "genre": [
+                "Thriller"
+            ],
+            "releaseDate": "2022-01-14",
+            "rank": 3,
+            "paytmMovieCode": "O9XAXL",
+            "isContentAvailable": 1,
+            "contentId": 141347
+        },
+        {
+            "provider_moviename": "Adipurush",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-a91bf919-5e77-4b42-a921-42b0bb8d1209.jpg",
+            "movieTitle": "Adipurush",
+            "movie_name": "Adipurush",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2022-08-11",
+            "rank": 2,
+            "paytmMovieCode": "O9XJL3",
+            "isContentAvailable": 1,
+            "contentId": 141853
+        },
+        {
+            "provider_moviename": "Dhruva Natchathiram",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Dhruva_Poster-ee435f5d-ee46-4038-865d-ce7fc147706c.jpg",
+            "movieTitle": "Dhruva Natchathiram",
+            "movie_name": "Dhruva Natchathiram",
+            "language": "Tamil",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9IDBW",
+            "isContentAvailable": 1,
+            "contentId": 141196,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Shamshera",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-c05df7f4-a489-4a01-8c02-638ed3706faf.jpg",
+            "movieTitle": "Shamshera",
+            "movie_name": "Shamshera",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9JDET",
+            "isContentAvailable": 1,
+            "contentId": 377,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Prithviraj",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/prithviraj-e75c45e2-37b9-4e5d-a338-4186d3b67cc4.jpg",
+            "movieTitle": "Prithviraj",
+            "movie_name": "Prithviraj",
+            "language": "Hindi",
+            "genre": [
+                "Action"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9RQVD",
+            "isContentAvailable": 1,
+            "contentId": 134577,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Toofan",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/toofan--46e29201-c5d6-4b0a-8039-6ad606e6396e.jpg",
+            "movieTitle": "Toofan",
+            "movie_name": "Toofan",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9S4LO",
+            "isContentAvailable": 1,
+            "contentId": 134874,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "No Time To Die",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/No-Time-to-Die-2451001b-228a-42e5-b926-331dc2815187.jpg",
+            "movieTitle": "No Time To Die",
+            "movie_name": "No Time To Die",
+            "language": "English",
+            "genre": [
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9S97S",
+            "isContentAvailable": 1,
+            "contentId": 134876,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Scoob!",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Scoob--95d3a8cb-a9f5-433b-bfaf-98c5f5fbac84.jpg",
+            "movieTitle": "Scoob!",
+            "movie_name": "Scoob!",
+            "language": "English",
+            "genre": [
+                "Animation",
+                "Adventure",
+                "Comedy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9TBZC",
+            "isContentAvailable": 1,
+            "contentId": 135101,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Morbius",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/morbius-7808ee49-7925-444a-9ded-e9bcd630e30a.jpg",
+            "movieTitle": "Morbius",
+            "movie_name": "Morbius",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9UVFH",
+            "isContentAvailable": 1,
+            "contentId": 135590,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Gangubai Kathiawadi",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-27b52053-162a-4c24-8a31-674f31bd0f20.jpg",
+            "movieTitle": "Gangubai Kathiawadi",
+            "movie_name": "Gangubai Kathiawadi",
+            "language": "Hindi",
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9UVPP",
+            "isContentAvailable": 1,
+            "contentId": 135597,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Jhund",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Jhund-863a8a6a-9792-4a74-8932-bdca8120a7c3.jpg",
+            "movieTitle": "Jhund",
+            "movie_name": "Jhund",
+            "language": "Hindi",
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9V05E",
+            "isContentAvailable": 1,
+            "contentId": 135632,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Big Bull",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/The-Big-Bull--90011059-d20d-4d5f-aa0c-5b7be0be631c.jpg",
+            "movieTitle": "The Big Bull",
+            "movie_name": "The Big Bull",
+            "language": "Hindi",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9VLXE",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Haseen Dillruba",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Haseen-Dillruba-ea304a81-3468-4101-914b-45e81f6711f1.jpg",
+            "movieTitle": "Haseen Dillruba",
+            "movie_name": "Haseen Dillruba",
+            "language": "Hindi",
+            "genre": [
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9VOVV",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Bunty Aur Babli 2",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-de92775a-28f3-431c-b181-b2511da21834.jpg",
+            "movieTitle": "Bunty Aur Babli 2",
+            "movie_name": "Bunty Aur Babli 2",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9VOW2",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Mr. Lele",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/MR.-Lele-43741aa3-dc07-483c-9a8d-53e95be6be44.jpg",
+            "movieTitle": "Mr. Lele",
+            "movie_name": "Mr. Lele",
+            "language": "Hindi",
+            "genre": [
+                "Comedy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9VOWU",
+            "isContentAvailable": 1,
+            "contentId": 141219,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Green Knight",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/The-Green-Knight-6f6840f0-d86a-45a8-ae58-93a952f6a51d.jpg",
+            "movieTitle": "The Green Knight",
+            "movie_name": "The Green Knight",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9WA7A",
+            "isContentAvailable": 1,
+            "contentId": 136098,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "83",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/83-8ee3a015-d0c8-4501-8611-45b157b9336e.jpg",
+            "movieTitle": "83",
+            "movie_name": "83",
+            "language": "Hindi",
+            "genre": [
+                "Biography"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9WCDP",
+            "isContentAvailable": 1,
+            "contentId": 135584,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Free Guy",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/FREE-GUY-e772ea23-1a2a-439b-a40f-08528795cb9d.jpg",
+            "movieTitle": "Free Guy",
+            "movie_name": "Free Guy",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9WCDR",
+            "isContentAvailable": 1,
+            "contentId": 141193,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Eternals",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/The-Eternals-e80eb2de-b585-4723-84ea-b48a8cf2313c.jpg",
+            "movieTitle": "The Eternals",
+            "movie_name": "The Eternals",
+            "language": "English",
+            "genre": [
+                "Action"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9WCDT",
+            "isContentAvailable": 1,
+            "contentId": 141195,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Monster Hunter",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-7ee67be8-5357-4a66-ad79-71fad0ec4726.jpg",
+            "movieTitle": "Monster Hunter",
+            "movie_name": "Monster Hunter",
+            "language": "English",
+            "genre": [
+                "Action"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9WFSF",
+            "isContentAvailable": 1,
+            "contentId": 141258,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Minamata",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Minamata-25988e9e-2d1a-4642-b487-413d49cfb28f.jpg",
+            "movieTitle": "Minamata",
+            "movie_name": "Minamata",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XAP2",
+            "isContentAvailable": 1,
+            "contentId": 141308,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Mauritanian",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/The-Mauritanian-39cd7291-0a37-4214-bae1-fab00588321c.jpg",
+            "movieTitle": "The Mauritanian",
+            "movie_name": "The Mauritanian",
+            "language": "English",
+            "genre": [
+                "Drama",
+                "Mystery"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XAP8",
+            "isContentAvailable": 1,
+            "contentId": 141319,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Jungle Cruise",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-18d26d36-da90-4c68-a758-b2ce68319cdd.jpg",
+            "movieTitle": "Jungle Cruise",
+            "movie_name": "Jungle Cruise",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFY5",
+            "isContentAvailable": 1,
+            "contentId": 134861,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "K.G.F. Chapter 2",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/_K.G.F-Chapter-2--60d4a954-ce8a-4905-b1e2-475313993f67.jpg",
+            "movieTitle": "K.G.F. Chapter 2",
+            "movie_name": "K.G.F. Chapter 2",
+            "language": "Kannada",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFY8",
+            "isContentAvailable": 1,
+            "contentId": 135612,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Nobody",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-8bcc70cd-72e9-4f00-b2d8-4eb87e46652c.jpg",
+            "movieTitle": "Nobody",
+            "movie_name": "Nobody",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYF",
+            "isContentAvailable": 1,
+            "contentId": 141529,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "RRR",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-3d715b96-fb6d-4795-8663-29be2636f157.jpg",
+            "movieTitle": "RRR",
+            "movie_name": "RRR",
+            "language": "Telugu",
+            "genre": [
+                "Action",
+                "Drama",
+                "History"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYH",
+            "isContentAvailable": 1,
+            "contentId": 141539,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Sab Kushal Mangal",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-7fde1cdc-6326-45a2-9fe0-4f029d0250cf.jpg",
+            "movieTitle": "Sab Kushal Mangal",
+            "movie_name": "Sab Kushal Mangal",
+            "language": "Hindi",
+            "genre": [
+                "Comedy",
+                "Crime",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYI",
+            "isContentAvailable": 1,
+            "contentId": 135320,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Radhe Shyam",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/radhe-shyam--9aa375e4-2bd3-4f15-ad43-157a4e4df7a6.jpg",
+            "movieTitle": "Radhe Shyam",
+            "movie_name": "Radhe Shyam",
+            "language": "Telugu",
+            "genre": [
+                "Action",
+                "Drama",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYJ",
+            "isContentAvailable": 1,
+            "contentId": 141523,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Sandeep Aur Pinky Faraar",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-59cb4e08-3e3b-4db1-b00d-eea9eb5b0787.jpg",
+            "movieTitle": "Sandeep Aur Pinky Faraar",
+            "movie_name": "Sandeep Aur Pinky Faraar",
+            "language": "Hindi",
+            "genre": [
+                "Comedy",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYK",
+            "isContentAvailable": 1,
+            "contentId": 136051,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Shadow in the Cloud",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-7667321d-0465-4cd0-ac34-f0263e692468.jpg",
+            "movieTitle": "Shadow in the Cloud",
+            "movie_name": "Shadow in the Cloud",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Horror"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYL",
+            "isContentAvailable": 1,
+            "contentId": 141545,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Sooryavanshi",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Sooryavanshi-8ba8a99f-e391-4403-a2bb-146267293c16.jpg",
+            "movieTitle": "Sooryavanshi",
+            "movie_name": "Sooryavanshi",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Comedy",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYM",
+            "isContentAvailable": 1,
+            "contentId": 646,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Batman",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-815a5bcd-2c90-4d0d-b930-d299f3b06de6.jpg",
+            "movieTitle": "The Batman",
+            "movie_name": "The Batman",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYN",
+            "isContentAvailable": 1,
+            "contentId": 141550,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Croods: A New Age",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/_The-Croods-2--A-New-Age-6edba241-0f3a-418d-9199-dae4da5f698f.jpg",
+            "movieTitle": "The Croods: A New Age",
+            "movie_name": "The Croods: A New Age",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Animation",
+                "Comedy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYP",
+            "isContentAvailable": 1,
+            "contentId": 141542,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Marksman",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-e574d394-f003-4e85-82e7-8b61dd315835.jpg",
+            "movieTitle": "The Marksman",
+            "movie_name": "The Marksman",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Mystery",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYQ",
+            "isContentAvailable": 1,
+            "contentId": 141562,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Top Gun: Maverick",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-99db2939-56d7-4732-bb1c-9c94b838dbc6.jpg",
+            "movieTitle": "Top Gun: Maverick",
+            "movie_name": "Top Gun: Maverick",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYR",
+            "isContentAvailable": 1,
+            "contentId": 134119,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "A Quiet Place - Part 2",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-c593b89b-8ae5-4985-95bf-b9a40c17ca28.jpg",
+            "movieTitle": "A Quiet Place - Part 2",
+            "movie_name": "A Quiet Place - Part 2",
+            "language": "English",
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0O",
+            "isContentAvailable": 1,
+            "contentId": 135472,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Bhool Bhulaiyaa 2",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-06b2490d-40ff-4eef-906b-3791a84cd4f6.jpg",
+            "movieTitle": "Bhool Bhulaiyaa 2",
+            "movie_name": "Bhool Bhulaiyaa 2",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0P",
+            "isContentAvailable": 1,
+            "contentId": 134394,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Chaos Walking",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-3de973ca-2b56-436a-a81d-e52e0b08c9ff.jpg",
+            "movieTitle": "Chaos Walking",
+            "movie_name": "Chaos Walking",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0Q",
+            "isContentAvailable": 1,
+            "contentId": 141575,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Dhaakad",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-7021ddec-4f87-48a1-b6f8-ecce246d63a6.jpg",
+            "movieTitle": "Dhaakad",
+            "movie_name": "Dhaakad",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0R",
+            "isContentAvailable": 1,
+            "contentId": 141578,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Thalaivi",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-bafe32bd-2b89-496e-9284-50ab4731d427.jpg",
+            "movieTitle": "Thalaivi",
+            "movie_name": "Thalaivi",
+            "language": "Hindi",
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0S",
+            "isContentAvailable": 1,
+            "contentId": 135287,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The King`s Man",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-2d7a5657-6d8f-4182-90b2-a3f8c7ee7a99.jpg",
+            "movieTitle": "The King`s Man",
+            "movie_name": "The King`s Man",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0T",
+            "isContentAvailable": 1,
+            "contentId": 135699,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Little Things",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-6228826e-cf04-4979-a605-28048825bad4.jpg",
+            "movieTitle": "The Little Things",
+            "movie_name": "The Little Things",
+            "language": "English",
+            "genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0U",
+            "isContentAvailable": 1,
+            "contentId": 141583,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Ram Setu",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-ee388f2c-0b89-4000-883c-75f82bcf337d.jpg",
+            "movieTitle": "Ram Setu",
+            "movie_name": "Ram Setu",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4B",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Pushpa",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-a4384c69-7d34-4de3-9f2c-c8f0356e5f9c.jpg",
+            "movieTitle": "Pushpa",
+            "movie_name": "Pushpa",
+            "language": "Telugu",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4C",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Salaar",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-a9f37770-859a-4317-948a-3aac02d43ff2.jpg",
+            "movieTitle": "Salaar",
+            "movie_name": "Salaar",
+            "language": "Telugu",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4D",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Thor: Love and Thunder",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-d96208bc-d1ea-45f9-8d76-34a4382aa78a.jpg",
+            "movieTitle": "Thor: Love and Thunder",
+            "movie_name": "Thor: Love and Thunder",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4E",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Come Away",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-ed309f85-9ec0-480f-9c53-04a4a941037f.jpg",
+            "movieTitle": "Come Away",
+            "movie_name": "Come Away",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4F",
+            "isContentAvailable": 1,
+            "contentId": 141634,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Ganapath Part-1",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-cd782a4b-c885-4aaa-bf70-a7b94cf358a9.jpg",
+            "movieTitle": "Ganapath Part-1",
+            "movie_name": "Ganapath Part-1",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4G",
+            "isContentAvailable": 1,
+            "contentId": 141641,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Cobra",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-8612d731-7324-48e7-a4ad-1cdf6d35d14f.jpg",
+            "movieTitle": "Cobra",
+            "movie_name": "Cobra",
+            "language": "Tamil",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSB",
+            "isContentAvailable": 1,
+            "contentId": 141687,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Most Eligible Bachelor",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-ac2e85c4-c7e3-4b16-a633-ccfc60ccc7de.jpg",
+            "movieTitle": "Most Eligible Bachelor",
+            "movie_name": "Most Eligible Bachelor",
+            "language": "Telugu",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSF",
+            "isContentAvailable": 1,
+            "contentId": 141720,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Rang De",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-397c1d5c-f116-4db1-b298-9650d6d45f6e.jpg",
+            "movieTitle": "Rang De",
+            "movie_name": "Rang De",
+            "language": "Telugu",
+            "genre": [
+                "Drama",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSH",
+            "isContentAvailable": 1,
+            "contentId": 141735,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Rashmi Rocket",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-047524d4-5dc1-4e0c-9a1c-ac3ea58cb5b4.jpg",
+            "movieTitle": "Rashmi Rocket",
+            "movie_name": "Rashmi Rocket",
+            "language": "Hindi",
+            "genre": [
+                "Drama",
+                "Sport"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSI",
+            "isContentAvailable": 1,
+            "contentId": 141754,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Raya & The Last Dragon",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-eae96198-ea5e-439e-903d-3caa90edb27e.jpg",
+            "movieTitle": "Raya & The Last Dragon",
+            "movie_name": "Raya & The Last Dragon",
+            "language": "English",
+            "genre": [
+                "Fantasy",
+                "Animation"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSJ",
+            "isContentAvailable": 1,
+            "contentId": 141742,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Witches",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-a98046ee-3f2a-4f8a-8df1-9417fcb54b5c.jpg",
+            "movieTitle": "The Witches",
+            "movie_name": "The Witches",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSK",
+            "isContentAvailable": 1,
+            "contentId": 141748,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Death on the Nile",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-69e7af8a-7c03-4957-a8ad-5119cb7d166c.jpg",
+            "movieTitle": "Death on the Nile",
+            "movie_name": "Death on the Nile",
+            "language": "English",
+            "genre": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XH4M",
+            "isContentAvailable": 1,
+            "contentId": 141777,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Atrangi Re",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-c8e4cfe8-03de-4216-b19e-ce7fed1e5087.jpg",
+            "movieTitle": "Atrangi Re",
+            "movie_name": "Atrangi Re",
+            "language": "Hindi",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XHDP",
+            "isContentAvailable": 1,
+            "contentId": 141798,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Antim: The Final Truth",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-b17fcc2e-1bca-49d8-93f0-30a393b2db94.jpg",
+            "movieTitle": "Antim: The Final Truth",
+            "movie_name": "Antim: The Final Truth",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XHDQ",
+            "isContentAvailable": 1,
+            "contentId": 141792,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Conjuring 3: The Devil Made Me Do It",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Conjuring-3-bc3b9cd2-1ab9-4219-8251-dfe0980803fc.jpg",
+            "movieTitle": "The Conjuring 3: The Devil Made Me Do It",
+            "movie_name": "The Conjuring 3: The Devil Made Me Do It",
+            "language": "English",
+            "genre": [
+                "Horror"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XHDS",
+            "isContentAvailable": 1,
+            "contentId": 141783,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Bliss",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-69b9d5ec-da9c-4b2e-b431-fc05a1be2380.jpg",
+            "movieTitle": "Bliss",
+            "movie_name": "Bliss",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJL4",
+            "isContentAvailable": 1,
+            "contentId": 141822,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Brahmastra",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-fc929967-84c5-41cb-8719-609e5b13589c.jpg",
+            "movieTitle": "Brahmastra",
+            "movie_name": "Brahmastra",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJL5",
+            "isContentAvailable": 1,
+            "contentId": 628,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Candyman",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-282e1086-784d-4222-926e-57222c948a39.jpg",
+            "movieTitle": "Candyman",
+            "movie_name": "Candyman",
+            "language": "English",
+            "genre": [
+                "Drama",
+                "Horror"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJL7",
+            "isContentAvailable": 1,
+            "contentId": 141831,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Doctor Strange in the Multiverse of Madness",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Doctor-Strange-and-the-Multiverse-of-Madness-6e28c63a-8300-426e-b485-ab043e443ccb.jpg",
+            "movieTitle": "Doctor Strange in the Multiverse of Madness",
+            "movie_name": "Doctor Strange in the Multiverse of Madness",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJL9",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Godzilla vs. Kong",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-f438753a-07f5-4ecb-b623-47515e011f22.jpg",
+            "movieTitle": "Godzilla vs. Kong",
+            "movie_name": "Godzilla vs. Kong",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJLB",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Love Story",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-56a316de-78d0-4ccb-81ad-57ced59bbb5e.jpg",
+            "movieTitle": "Love Story",
+            "movie_name": "Love Story",
+            "language": "Telugu",
+            "genre": [
+                "Drama",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJLC",
+            "isContentAvailable": 1,
+            "contentId": 141866,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Mortal Kombat",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-ed5b255a-7848-43e4-bdb0-e2b0f66c838f.jpg",
+            "movieTitle": "Mortal Kombat",
+            "movie_name": "Mortal Kombat",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJLD",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Shang-Chi and the Legend of the Ten Rings",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-a6c976fe-a327-472c-8222-99e58cbfe045.jpg",
+            "movieTitle": "Shang-Chi and the Legend of the Ten Rings",
+            "movie_name": "Shang-Chi and the Legend of the Ten Rings",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJLF",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Spiral",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-55186623-4568-460c-8611-1f1c3e7099a9.jpg",
+            "movieTitle": "Spiral",
+            "movie_name": "Spiral",
+            "language": "English",
+            "genre": [
+                "Horror",
+                "Crime"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJLI",
+            "isContentAvailable": 1,
+            "contentId": 141872,
+            "releaseDate": null
+        }
+    ],
+    "keys": [
+        "genre",
+        "releaseDate"
+    ],
+    "languageScored": [
+        "English",
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Kannada"
+    ]
+}
+Request method:	GET
+Request URI:	https://apiproxy.paytm.com/v2/movies/upcoming
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Content-Length: 6552
+Server: openresty
+Content-Encoding: gzip
+ETag: W/"8c40-u9qhN1o8vbezPQVUwM1SaGznAn0"
+requestId: e892d0b0-58db-11eb-a9c7-b7aaf022441b
+X-Powered-By: Express
+x-server-time: 1610898708.804
+Date: Sun, 17 Jan 2021 15:51:48 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+
+{
+    "upcomingMovieData": [
+        {
+            "provider_moviename": "Misbehaviour",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-b7147194-6f3b-4d6d-9fad-e1ba87d37647.jpg",
+            "movieTitle": "Misbehaviour",
+            "movie_name": "Misbehaviour",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-01-22",
+            "rank": 46,
+            "paytmMovieCode": "O9W9G9",
+            "isContentAvailable": 1,
+            "contentId": 136071
+        },
+        {
+            "provider_moviename": "Breaking News In Yuba County",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Breaking-News-in-Yuba-County-497803f4-adcf-45e1-a68e-04aaf36d9462.jpg",
+            "movieTitle": "Breaking News In Yuba County",
+            "movie_name": "Breaking News In Yuba County",
+            "language": "English",
+            "genre": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "releaseDate": "2021-01-22",
+            "rank": 46,
+            "paytmMovieCode": "O9XAXI",
+            "isContentAvailable": 1,
+            "contentId": 141335
+        },
+        {
+            "provider_moviename": "Madam Chief Minister",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/cm-madam_-502c1a99-2b19-4f28-96bb-4b87a6feb1fd.jpg",
+            "movieTitle": "Madam Chief Minister",
+            "movie_name": "Madam Chief Minister",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-01-22",
+            "rank": 46,
+            "paytmMovieCode": "O9XHK8",
+            "isContentAvailable": 1,
+            "contentId": 141806
+        },
+        {
+            "provider_moviename": "Bachchan Pandey",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Bachchan-Pandey-84c08857-4cbf-4640-a28e-7de181af810b.jpg",
+            "movieTitle": "Bachchan Pandey",
+            "movie_name": "Bachchan Pandey",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-01-22",
+            "rank": 45,
+            "paytmMovieCode": "O9RPXS",
+            "isContentAvailable": 1,
+            "contentId": 134578
+        },
+        {
+            "provider_moviename": "The Comeback Trail",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/The-Comeback-Trail-e3a95aca-7a1f-47de-9983-414bd713be58.jpg",
+            "movieTitle": "The Comeback Trail",
+            "movie_name": "The Comeback Trail",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Comedy"
+            ],
+            "releaseDate": "2021-02-12",
+            "rank": 44,
+            "paytmMovieCode": "O9XAXJ",
+            "isContentAvailable": 1,
+            "contentId": 141341
+        },
+        {
+            "provider_moviename": "Tom & Jerry",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-28f1eebf-7bc5-4e77-b129-ce32b79e1550.jpg",
+            "movieTitle": "Tom & Jerry",
+            "movie_name": "Tom & Jerry",
+            "language": "English",
+            "genre": [
+                "Comedy",
+                "Family"
+            ],
+            "releaseDate": "2021-02-19",
+            "rank": 43,
+            "paytmMovieCode": "O9XJLN",
+            "isContentAvailable": 1,
+            "contentId": 141813
+        },
+        {
+            "provider_moviename": "Wrong Turn",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-3aa89787-3c56-4175-8d14-750b1000bbeb.jpg",
+            "movieTitle": "Wrong Turn",
+            "movie_name": "Wrong Turn",
+            "language": "English",
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "releaseDate": "2021-01-26",
+            "rank": 40,
+            "paytmMovieCode": "O9XJLM",
+            "isContentAvailable": 1,
+            "contentId": 141884
+        },
+        {
+            "provider_moviename": "Shabaash Mithu",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Shabaash-Mithu-eaf6ff47-3dc0-46c5-a08e-3399dd8204dc.jpg",
+            "movieTitle": "Shabaash Mithu",
+            "movie_name": "Shabaash Mithu",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-02-05",
+            "rank": 40,
+            "paytmMovieCode": "O9VOW3",
+            "isContentAvailable": 1,
+            "contentId": 141218
+        },
+        {
+            "provider_moviename": "The Reckoning",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/the-reckoning-c31ed14d-ed93-4651-9dfe-b332648a255b.jpg",
+            "movieTitle": "The Reckoning",
+            "movie_name": "The Reckoning",
+            "language": "English",
+            "genre": [
+                "Horror",
+                "History"
+            ],
+            "releaseDate": "2021-02-05",
+            "rank": 40,
+            "paytmMovieCode": "O9XAP9",
+            "isContentAvailable": 1,
+            "contentId": 141329
+        },
+        {
+            "provider_moviename": "The Vigil",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/The-Vigil-9544de21-402b-42a2-ba92-15dbfa66fb94.jpg",
+            "movieTitle": "The Vigil",
+            "movie_name": "The Vigil",
+            "language": "English",
+            "genre": [
+                "Horror",
+                "Thriller",
+                "Mystery"
+            ],
+            "releaseDate": "2021-02-26",
+            "rank": 39,
+            "paytmMovieCode": "O9XAXK",
+            "isContentAvailable": 1,
+            "contentId": 141344
+        },
+        {
+            "provider_moviename": "Cherry",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-386c1f56-c1f7-4cbd-a5fa-3f44ccde72d5.jpg",
+            "movieTitle": "Cherry",
+            "movie_name": "Cherry",
+            "language": "English",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "releaseDate": "2021-02-26",
+            "rank": 39,
+            "paytmMovieCode": "O9XJL8",
+            "isContentAvailable": 1,
+            "contentId": 141842
+        },
+        {
+            "provider_moviename": "Haathi Mere Saathi",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-d7fd4f38-73a4-4352-9404-3edc150bdc44.jpg",
+            "movieTitle": "Haathi Mere Saathi",
+            "movie_name": "Haathi Mere Saathi",
+            "language": "Tamil",
+            "genre": [
+                "Drama",
+                "Action"
+            ],
+            "releaseDate": "2021-03-26",
+            "rank": 38,
+            "paytmMovieCode": "O9XGSE",
+            "isContentAvailable": 1,
+            "contentId": 141713
+        },
+        {
+            "provider_moviename": "The Boss Baby: Family Business",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-c3fca2d1-4122-42ee-a7b8-1cf865ee2b74.jpg",
+            "movieTitle": "The Boss Baby: Family Business",
+            "movie_name": "The Boss Baby: Family Business",
+            "language": "English",
+            "genre": [
+                "Animation",
+                "Comedy"
+            ],
+            "releaseDate": "2021-03-26",
+            "rank": 38,
+            "paytmMovieCode": "O9XJLJ",
+            "isContentAvailable": 1,
+            "contentId": 141878
+        },
+        {
+            "provider_moviename": "Bell Bottom",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Bell-bottom-4208ee0c-ba4d-4ef1-8fa3-e73cbb9c29a3.jpg",
+            "movieTitle": "Bell Bottom",
+            "movie_name": "Bell Bottom",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-04-02",
+            "rank": 38,
+            "paytmMovieCode": "O9TAJL",
+            "isContentAvailable": 1,
+            "contentId": 135346
+        },
+        {
+            "provider_moviename": "Peter Rabbit 2: The Runaway",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-7e3ee5e5-2619-45c3-bda7-81c486876153.jpg",
+            "movieTitle": "Peter Rabbit 2: The Runaway",
+            "movie_name": "Peter Rabbit 2: The Runaway",
+            "language": "English",
+            "genre": [
+                "Comedy",
+                "Family"
+            ],
+            "releaseDate": "2021-04-02",
+            "rank": 38,
+            "paytmMovieCode": "O9XGSG",
+            "isContentAvailable": 1,
+            "contentId": 141727
+        },
+        {
+            "provider_moviename": "F9: The Fast Saga",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/F9-97103b9b-101e-4638-92e2-9cf6c09d857b.jpg",
+            "movieTitle": "F9: The Fast Saga",
+            "movie_name": "F9: The Fast Saga",
+            "language": "English",
+            "genre": [
+                "Action"
+            ],
+            "releaseDate": "2021-04-02",
+            "rank": 37,
+            "paytmMovieCode": "O9VB1G",
+            "isContentAvailable": 1,
+            "contentId": 135697
+        },
+        {
+            "provider_moviename": "Black Widow",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Black+Widow+-8765f444-28eb-4abd-8e3a-66461129c4a9.jpg",
+            "movieTitle": "Black Widow",
+            "movie_name": "Black Widow",
+            "language": "English",
+            "genre": [
+                "Action"
+            ],
+            "releaseDate": "2021-05-07",
+            "rank": 36,
+            "paytmMovieCode": "O9TUKD",
+            "isContentAvailable": 1,
+            "contentId": 135365
+        },
+        {
+            "provider_moviename": "Satyameva Jayate 2",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-e2703f92-711f-44d2-9526-c3d9ae42952d.jpg",
+            "movieTitle": "Satyameva Jayate 2",
+            "movie_name": "Satyameva Jayate 2",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "releaseDate": "2021-05-12",
+            "rank": 35,
+            "paytmMovieCode": "O9S6GC",
+            "isContentAvailable": 1,
+            "contentId": 134875
+        },
+        {
+            "provider_moviename": "Ghostbusters: Afterlife",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Ghostbusters--Afterlife-e254d847-db57-447a-bf7a-e719c4e83e73.jpg",
+            "movieTitle": "Ghostbusters: Afterlife",
+            "movie_name": "Ghostbusters: Afterlife",
+            "language": "English",
+            "genre": [
+                "Fantasy",
+                "Comedy"
+            ],
+            "releaseDate": "2021-06-11",
+            "rank": 35,
+            "paytmMovieCode": "O9XGTE",
+            "isContentAvailable": 1,
+            "contentId": 141705
+        },
+        {
+            "provider_moviename": "Venom: Let There Be Carnage",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-813b86c0-045a-426e-951f-088e531d7f50.jpg",
+            "movieTitle": "Venom: Let There Be Carnage",
+            "movie_name": "Venom: Let There Be Carnage",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Drama"
+            ],
+            "releaseDate": "2021-06-25",
+            "rank": 35,
+            "paytmMovieCode": "O9XGSS",
+            "isContentAvailable": 1,
+            "contentId": 141759
+        },
+        {
+            "provider_moviename": "Heropanti 2",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/heropanti-2-e5564424-dce5-49a5-be3c-44c22071f139.jpg",
+            "movieTitle": "Heropanti 2",
+            "movie_name": "Heropanti 2",
+            "language": "Hindi",
+            "genre": [
+                "Action"
+            ],
+            "releaseDate": "2021-07-16",
+            "rank": 35,
+            "paytmMovieCode": "O9VZ56",
+            "isContentAvailable": 1,
+            "contentId": 141221
+        },
+        {
+            "provider_moviename": "Maidaan",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Maidaan-b564084a-6f76-460c-86fb-da32574e0517.jpg",
+            "movieTitle": "Maidaan",
+            "movie_name": "Maidaan",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-08-13",
+            "rank": 34,
+            "paytmMovieCode": "O9V7OX",
+            "isContentAvailable": 1,
+            "contentId": 141220
+        },
+        {
+            "provider_moviename": "The Hitman's Wife's Bodyguard",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-ce3dc0cd-d088-4ed0-af73-32cc20701875.jpg",
+            "movieTitle": "The Hitman's Wife's Bodyguard",
+            "movie_name": "The Hitman's Wife's Bodyguard",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Comedy"
+            ],
+            "releaseDate": "2021-08-19",
+            "rank": 33,
+            "paytmMovieCode": "O9XJLK",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Dune",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-1581a64f-2d35-4dc9-8724-46aa67b707b7.jpg",
+            "movieTitle": "Dune",
+            "movie_name": "Dune",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "releaseDate": "2021-10-01",
+            "rank": 32,
+            "paytmMovieCode": "O9XJLA",
+            "isContentAvailable": 1,
+            "contentId": 141858
+        },
+        {
+            "provider_moviename": "Raksha Bandhan",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-4122f709-f350-49fb-983f-0c712951b3e2.jpg",
+            "movieTitle": "Raksha Bandhan",
+            "movie_name": "Raksha Bandhan",
+            "language": "Hindi",
+            "genre": [
+                "Family",
+                "Drama"
+            ],
+            "releaseDate": "2021-11-05",
+            "rank": 7,
+            "paytmMovieCode": "O9XJLE",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Black Adam",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Black-Adam-965a5675-853d-43a3-b2cb-f39e9f43d165.jpg",
+            "movieTitle": "Black Adam",
+            "movie_name": "Black Adam",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-12-22",
+            "rank": 6,
+            "paytmMovieCode": "O9TFB7",
+            "isContentAvailable": 1,
+            "contentId": 135347
+        },
+        {
+            "provider_moviename": "Takht",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Takat-caee86d8-e15d-45eb-8f24-a537b930d888.jpg",
+            "movieTitle": "Takht",
+            "movie_name": "Takht",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-12-24",
+            "rank": 5,
+            "paytmMovieCode": "O9KFT4",
+            "isContentAvailable": 1,
+            "contentId": 638
+        },
+        {
+            "provider_moviename": "Laal Singh Chaddha",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Lal-Singh-b7fc774f-0edb-4267-801b-b4c569c28c7a.jpg",
+            "movieTitle": "Laal Singh Chaddha",
+            "movie_name": "Laal Singh Chaddha",
+            "language": "Hindi",
+            "genre": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "releaseDate": "2021-12-25",
+            "rank": 4,
+            "paytmMovieCode": "O9TKDP",
+            "isContentAvailable": 1,
+            "contentId": 135345
+        },
+        {
+            "provider_moviename": "355",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-3eef1daa-dc4b-4ef5-b13b-c552e9b1ad9b.jpg",
+            "movieTitle": "355",
+            "movie_name": "355",
+            "language": "English",
+            "genre": [
+                "Thriller"
+            ],
+            "releaseDate": "2022-01-14",
+            "rank": 3,
+            "paytmMovieCode": "O9XAXL",
+            "isContentAvailable": 1,
+            "contentId": 141347
+        },
+        {
+            "provider_moviename": "Adipurush",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-a91bf919-5e77-4b42-a921-42b0bb8d1209.jpg",
+            "movieTitle": "Adipurush",
+            "movie_name": "Adipurush",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2022-08-11",
+            "rank": 2,
+            "paytmMovieCode": "O9XJL3",
+            "isContentAvailable": 1,
+            "contentId": 141853
+        },
+        {
+            "provider_moviename": "Dhruva Natchathiram",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Dhruva_Poster-ee435f5d-ee46-4038-865d-ce7fc147706c.jpg",
+            "movieTitle": "Dhruva Natchathiram",
+            "movie_name": "Dhruva Natchathiram",
+            "language": "Tamil",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9IDBW",
+            "isContentAvailable": 1,
+            "contentId": 141196,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Shamshera",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-c05df7f4-a489-4a01-8c02-638ed3706faf.jpg",
+            "movieTitle": "Shamshera",
+            "movie_name": "Shamshera",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9JDET",
+            "isContentAvailable": 1,
+            "contentId": 377,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Prithviraj",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/prithviraj-e75c45e2-37b9-4e5d-a338-4186d3b67cc4.jpg",
+            "movieTitle": "Prithviraj",
+            "movie_name": "Prithviraj",
+            "language": "Hindi",
+            "genre": [
+                "Action"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9RQVD",
+            "isContentAvailable": 1,
+            "contentId": 134577,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Toofan",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/toofan--46e29201-c5d6-4b0a-8039-6ad606e6396e.jpg",
+            "movieTitle": "Toofan",
+            "movie_name": "Toofan",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9S4LO",
+            "isContentAvailable": 1,
+            "contentId": 134874,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "No Time To Die",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/No-Time-to-Die-2451001b-228a-42e5-b926-331dc2815187.jpg",
+            "movieTitle": "No Time To Die",
+            "movie_name": "No Time To Die",
+            "language": "English",
+            "genre": [
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9S97S",
+            "isContentAvailable": 1,
+            "contentId": 134876,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Scoob!",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Scoob--95d3a8cb-a9f5-433b-bfaf-98c5f5fbac84.jpg",
+            "movieTitle": "Scoob!",
+            "movie_name": "Scoob!",
+            "language": "English",
+            "genre": [
+                "Animation",
+                "Adventure",
+                "Comedy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9TBZC",
+            "isContentAvailable": 1,
+            "contentId": 135101,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Morbius",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/morbius-7808ee49-7925-444a-9ded-e9bcd630e30a.jpg",
+            "movieTitle": "Morbius",
+            "movie_name": "Morbius",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9UVFH",
+            "isContentAvailable": 1,
+            "contentId": 135590,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Gangubai Kathiawadi",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-27b52053-162a-4c24-8a31-674f31bd0f20.jpg",
+            "movieTitle": "Gangubai Kathiawadi",
+            "movie_name": "Gangubai Kathiawadi",
+            "language": "Hindi",
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9UVPP",
+            "isContentAvailable": 1,
+            "contentId": 135597,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Jhund",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Jhund-863a8a6a-9792-4a74-8932-bdca8120a7c3.jpg",
+            "movieTitle": "Jhund",
+            "movie_name": "Jhund",
+            "language": "Hindi",
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9V05E",
+            "isContentAvailable": 1,
+            "contentId": 135632,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Big Bull",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/The-Big-Bull--90011059-d20d-4d5f-aa0c-5b7be0be631c.jpg",
+            "movieTitle": "The Big Bull",
+            "movie_name": "The Big Bull",
+            "language": "Hindi",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9VLXE",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Haseen Dillruba",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Haseen-Dillruba-ea304a81-3468-4101-914b-45e81f6711f1.jpg",
+            "movieTitle": "Haseen Dillruba",
+            "movie_name": "Haseen Dillruba",
+            "language": "Hindi",
+            "genre": [
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9VOVV",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Bunty Aur Babli 2",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-de92775a-28f3-431c-b181-b2511da21834.jpg",
+            "movieTitle": "Bunty Aur Babli 2",
+            "movie_name": "Bunty Aur Babli 2",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9VOW2",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Mr. Lele",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/MR.-Lele-43741aa3-dc07-483c-9a8d-53e95be6be44.jpg",
+            "movieTitle": "Mr. Lele",
+            "movie_name": "Mr. Lele",
+            "language": "Hindi",
+            "genre": [
+                "Comedy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9VOWU",
+            "isContentAvailable": 1,
+            "contentId": 141219,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Green Knight",
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/The-Green-Knight-6f6840f0-d86a-45a8-ae58-93a952f6a51d.jpg",
+            "movieTitle": "The Green Knight",
+            "movie_name": "The Green Knight",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9WA7A",
+            "isContentAvailable": 1,
+            "contentId": 136098,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "83",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/83-8ee3a015-d0c8-4501-8611-45b157b9336e.jpg",
+            "movieTitle": "83",
+            "movie_name": "83",
+            "language": "Hindi",
+            "genre": [
+                "Biography"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9WCDP",
+            "isContentAvailable": 1,
+            "contentId": 135584,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Free Guy",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/FREE-GUY-e772ea23-1a2a-439b-a40f-08528795cb9d.jpg",
+            "movieTitle": "Free Guy",
+            "movie_name": "Free Guy",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9WCDR",
+            "isContentAvailable": 1,
+            "contentId": 141193,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Eternals",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/The-Eternals-e80eb2de-b585-4723-84ea-b48a8cf2313c.jpg",
+            "movieTitle": "The Eternals",
+            "movie_name": "The Eternals",
+            "language": "English",
+            "genre": [
+                "Action"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9WCDT",
+            "isContentAvailable": 1,
+            "contentId": 141195,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Monster Hunter",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-7ee67be8-5357-4a66-ad79-71fad0ec4726.jpg",
+            "movieTitle": "Monster Hunter",
+            "movie_name": "Monster Hunter",
+            "language": "English",
+            "genre": [
+                "Action"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9WFSF",
+            "isContentAvailable": 1,
+            "contentId": 141258,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Minamata",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Minamata-25988e9e-2d1a-4642-b487-413d49cfb28f.jpg",
+            "movieTitle": "Minamata",
+            "movie_name": "Minamata",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XAP2",
+            "isContentAvailable": 1,
+            "contentId": 141308,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Mauritanian",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/The-Mauritanian-39cd7291-0a37-4214-bae1-fab00588321c.jpg",
+            "movieTitle": "The Mauritanian",
+            "movie_name": "The Mauritanian",
+            "language": "English",
+            "genre": [
+                "Drama",
+                "Mystery"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XAP8",
+            "isContentAvailable": 1,
+            "contentId": 141319,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Jungle Cruise",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-18d26d36-da90-4c68-a758-b2ce68319cdd.jpg",
+            "movieTitle": "Jungle Cruise",
+            "movie_name": "Jungle Cruise",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFY5",
+            "isContentAvailable": 1,
+            "contentId": 134861,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "K.G.F. Chapter 2",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/_K.G.F-Chapter-2--60d4a954-ce8a-4905-b1e2-475313993f67.jpg",
+            "movieTitle": "K.G.F. Chapter 2",
+            "movie_name": "K.G.F. Chapter 2",
+            "language": "Kannada",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFY8",
+            "isContentAvailable": 1,
+            "contentId": 135612,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Nobody",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-8bcc70cd-72e9-4f00-b2d8-4eb87e46652c.jpg",
+            "movieTitle": "Nobody",
+            "movie_name": "Nobody",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYF",
+            "isContentAvailable": 1,
+            "contentId": 141529,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "RRR",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-3d715b96-fb6d-4795-8663-29be2636f157.jpg",
+            "movieTitle": "RRR",
+            "movie_name": "RRR",
+            "language": "Telugu",
+            "genre": [
+                "Action",
+                "Drama",
+                "History"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYH",
+            "isContentAvailable": 1,
+            "contentId": 141539,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Sab Kushal Mangal",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-7fde1cdc-6326-45a2-9fe0-4f029d0250cf.jpg",
+            "movieTitle": "Sab Kushal Mangal",
+            "movie_name": "Sab Kushal Mangal",
+            "language": "Hindi",
+            "genre": [
+                "Comedy",
+                "Crime",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYI",
+            "isContentAvailable": 1,
+            "contentId": 135320,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Radhe Shyam",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/radhe-shyam--9aa375e4-2bd3-4f15-ad43-157a4e4df7a6.jpg",
+            "movieTitle": "Radhe Shyam",
+            "movie_name": "Radhe Shyam",
+            "language": "Telugu",
+            "genre": [
+                "Action",
+                "Drama",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYJ",
+            "isContentAvailable": 1,
+            "contentId": 141523,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Sandeep Aur Pinky Faraar",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-59cb4e08-3e3b-4db1-b00d-eea9eb5b0787.jpg",
+            "movieTitle": "Sandeep Aur Pinky Faraar",
+            "movie_name": "Sandeep Aur Pinky Faraar",
+            "language": "Hindi",
+            "genre": [
+                "Comedy",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYK",
+            "isContentAvailable": 1,
+            "contentId": 136051,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Shadow in the Cloud",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-7667321d-0465-4cd0-ac34-f0263e692468.jpg",
+            "movieTitle": "Shadow in the Cloud",
+            "movie_name": "Shadow in the Cloud",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Horror"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYL",
+            "isContentAvailable": 1,
+            "contentId": 141545,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Sooryavanshi",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Sooryavanshi-8ba8a99f-e391-4403-a2bb-146267293c16.jpg",
+            "movieTitle": "Sooryavanshi",
+            "movie_name": "Sooryavanshi",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Comedy",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYM",
+            "isContentAvailable": 1,
+            "contentId": 646,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Batman",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-815a5bcd-2c90-4d0d-b930-d299f3b06de6.jpg",
+            "movieTitle": "The Batman",
+            "movie_name": "The Batman",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYN",
+            "isContentAvailable": 1,
+            "contentId": 141550,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Croods: A New Age",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/_The-Croods-2--A-New-Age-6edba241-0f3a-418d-9199-dae4da5f698f.jpg",
+            "movieTitle": "The Croods: A New Age",
+            "movie_name": "The Croods: A New Age",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Animation",
+                "Comedy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYP",
+            "isContentAvailable": 1,
+            "contentId": 141542,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Marksman",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-e574d394-f003-4e85-82e7-8b61dd315835.jpg",
+            "movieTitle": "The Marksman",
+            "movie_name": "The Marksman",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Mystery",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYQ",
+            "isContentAvailable": 1,
+            "contentId": 141562,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Top Gun: Maverick",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-99db2939-56d7-4732-bb1c-9c94b838dbc6.jpg",
+            "movieTitle": "Top Gun: Maverick",
+            "movie_name": "Top Gun: Maverick",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XFYR",
+            "isContentAvailable": 1,
+            "contentId": 134119,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "A Quiet Place - Part 2",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-c593b89b-8ae5-4985-95bf-b9a40c17ca28.jpg",
+            "movieTitle": "A Quiet Place - Part 2",
+            "movie_name": "A Quiet Place - Part 2",
+            "language": "English",
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0O",
+            "isContentAvailable": 1,
+            "contentId": 135472,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Bhool Bhulaiyaa 2",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-06b2490d-40ff-4eef-906b-3791a84cd4f6.jpg",
+            "movieTitle": "Bhool Bhulaiyaa 2",
+            "movie_name": "Bhool Bhulaiyaa 2",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0P",
+            "isContentAvailable": 1,
+            "contentId": 134394,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Chaos Walking",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-3de973ca-2b56-436a-a81d-e52e0b08c9ff.jpg",
+            "movieTitle": "Chaos Walking",
+            "movie_name": "Chaos Walking",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0Q",
+            "isContentAvailable": 1,
+            "contentId": 141575,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Dhaakad",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-7021ddec-4f87-48a1-b6f8-ecce246d63a6.jpg",
+            "movieTitle": "Dhaakad",
+            "movie_name": "Dhaakad",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0R",
+            "isContentAvailable": 1,
+            "contentId": 141578,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Thalaivi",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-bafe32bd-2b89-496e-9284-50ab4731d427.jpg",
+            "movieTitle": "Thalaivi",
+            "movie_name": "Thalaivi",
+            "language": "Hindi",
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0S",
+            "isContentAvailable": 1,
+            "contentId": 135287,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The King`s Man",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-2d7a5657-6d8f-4182-90b2-a3f8c7ee7a99.jpg",
+            "movieTitle": "The King`s Man",
+            "movie_name": "The King`s Man",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0T",
+            "isContentAvailable": 1,
+            "contentId": 135699,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Little Things",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-6228826e-cf04-4979-a605-28048825bad4.jpg",
+            "movieTitle": "The Little Things",
+            "movie_name": "The Little Things",
+            "language": "English",
+            "genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG0U",
+            "isContentAvailable": 1,
+            "contentId": 141583,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Ram Setu",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-ee388f2c-0b89-4000-883c-75f82bcf337d.jpg",
+            "movieTitle": "Ram Setu",
+            "movie_name": "Ram Setu",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4B",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Pushpa",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-a4384c69-7d34-4de3-9f2c-c8f0356e5f9c.jpg",
+            "movieTitle": "Pushpa",
+            "movie_name": "Pushpa",
+            "language": "Telugu",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4C",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Salaar",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-a9f37770-859a-4317-948a-3aac02d43ff2.jpg",
+            "movieTitle": "Salaar",
+            "movie_name": "Salaar",
+            "language": "Telugu",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4D",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Thor: Love and Thunder",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-d96208bc-d1ea-45f9-8d76-34a4382aa78a.jpg",
+            "movieTitle": "Thor: Love and Thunder",
+            "movie_name": "Thor: Love and Thunder",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4E",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Come Away",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-ed309f85-9ec0-480f-9c53-04a4a941037f.jpg",
+            "movieTitle": "Come Away",
+            "movie_name": "Come Away",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4F",
+            "isContentAvailable": 1,
+            "contentId": 141634,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Ganapath Part-1",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-cd782a4b-c885-4aaa-bf70-a7b94cf358a9.jpg",
+            "movieTitle": "Ganapath Part-1",
+            "movie_name": "Ganapath Part-1",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XG4G",
+            "isContentAvailable": 1,
+            "contentId": 141641,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Cobra",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-8612d731-7324-48e7-a4ad-1cdf6d35d14f.jpg",
+            "movieTitle": "Cobra",
+            "movie_name": "Cobra",
+            "language": "Tamil",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSB",
+            "isContentAvailable": 1,
+            "contentId": 141687,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Most Eligible Bachelor",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-ac2e85c4-c7e3-4b16-a633-ccfc60ccc7de.jpg",
+            "movieTitle": "Most Eligible Bachelor",
+            "movie_name": "Most Eligible Bachelor",
+            "language": "Telugu",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSF",
+            "isContentAvailable": 1,
+            "contentId": 141720,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Rang De",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-397c1d5c-f116-4db1-b298-9650d6d45f6e.jpg",
+            "movieTitle": "Rang De",
+            "movie_name": "Rang De",
+            "language": "Telugu",
+            "genre": [
+                "Drama",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSH",
+            "isContentAvailable": 1,
+            "contentId": 141735,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Rashmi Rocket",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-047524d4-5dc1-4e0c-9a1c-ac3ea58cb5b4.jpg",
+            "movieTitle": "Rashmi Rocket",
+            "movie_name": "Rashmi Rocket",
+            "language": "Hindi",
+            "genre": [
+                "Drama",
+                "Sport"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSI",
+            "isContentAvailable": 1,
+            "contentId": 141754,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Raya & The Last Dragon",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-eae96198-ea5e-439e-903d-3caa90edb27e.jpg",
+            "movieTitle": "Raya & The Last Dragon",
+            "movie_name": "Raya & The Last Dragon",
+            "language": "English",
+            "genre": [
+                "Fantasy",
+                "Animation"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSJ",
+            "isContentAvailable": 1,
+            "contentId": 141742,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Witches",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-a98046ee-3f2a-4f8a-8df1-9417fcb54b5c.jpg",
+            "movieTitle": "The Witches",
+            "movie_name": "The Witches",
+            "language": "English",
+            "genre": [
+                "Adventure",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XGSK",
+            "isContentAvailable": 1,
+            "contentId": 141748,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Death on the Nile",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-69e7af8a-7c03-4957-a8ad-5119cb7d166c.jpg",
+            "movieTitle": "Death on the Nile",
+            "movie_name": "Death on the Nile",
+            "language": "English",
+            "genre": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XH4M",
+            "isContentAvailable": 1,
+            "contentId": 141777,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Atrangi Re",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-c8e4cfe8-03de-4216-b19e-ce7fed1e5087.jpg",
+            "movieTitle": "Atrangi Re",
+            "movie_name": "Atrangi Re",
+            "language": "Hindi",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XHDP",
+            "isContentAvailable": 1,
+            "contentId": 141798,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Antim: The Final Truth",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-b17fcc2e-1bca-49d8-93f0-30a393b2db94.jpg",
+            "movieTitle": "Antim: The Final Truth",
+            "movie_name": "Antim: The Final Truth",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XHDQ",
+            "isContentAvailable": 1,
+            "contentId": 141792,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "The Conjuring 3: The Devil Made Me Do It",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Conjuring-3-bc3b9cd2-1ab9-4219-8251-dfe0980803fc.jpg",
+            "movieTitle": "The Conjuring 3: The Devil Made Me Do It",
+            "movie_name": "The Conjuring 3: The Devil Made Me Do It",
+            "language": "English",
+            "genre": [
+                "Horror"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XHDS",
+            "isContentAvailable": 1,
+            "contentId": 141783,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Bliss",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-69b9d5ec-da9c-4b2e-b431-fc05a1be2380.jpg",
+            "movieTitle": "Bliss",
+            "movie_name": "Bliss",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJL4",
+            "isContentAvailable": 1,
+            "contentId": 141822,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Brahmastra",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-fc929967-84c5-41cb-8719-609e5b13589c.jpg",
+            "movieTitle": "Brahmastra",
+            "movie_name": "Brahmastra",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJL5",
+            "isContentAvailable": 1,
+            "contentId": 628,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Candyman",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-282e1086-784d-4222-926e-57222c948a39.jpg",
+            "movieTitle": "Candyman",
+            "movie_name": "Candyman",
+            "language": "English",
+            "genre": [
+                "Drama",
+                "Horror"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJL7",
+            "isContentAvailable": 1,
+            "contentId": 141831,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Doctor Strange in the Multiverse of Madness",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/Doctor-Strange-and-the-Multiverse-of-Madness-6e28c63a-8300-426e-b485-ab043e443ccb.jpg",
+            "movieTitle": "Doctor Strange in the Multiverse of Madness",
+            "movie_name": "Doctor Strange in the Multiverse of Madness",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJL9",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Godzilla vs. Kong",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-f438753a-07f5-4ecb-b623-47515e011f22.jpg",
+            "movieTitle": "Godzilla vs. Kong",
+            "movie_name": "Godzilla vs. Kong",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJLB",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Love Story",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-56a316de-78d0-4ccb-81ad-57ced59bbb5e.jpg",
+            "movieTitle": "Love Story",
+            "movie_name": "Love Story",
+            "language": "Telugu",
+            "genre": [
+                "Drama",
+                "Romance"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJLC",
+            "isContentAvailable": 1,
+            "contentId": 141866,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Mortal Kombat",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-ed5b255a-7848-43e4-bdb0-e2b0f66c838f.jpg",
+            "movieTitle": "Mortal Kombat",
+            "movie_name": "Mortal Kombat",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Fantasy"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJLD",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Shang-Chi and the Legend of the Ten Rings",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-a6c976fe-a327-472c-8222-99e58cbfe045.jpg",
+            "movieTitle": "Shang-Chi and the Legend of the Ten Rings",
+            "movie_name": "Shang-Chi and the Legend of the Ten Rings",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJLF",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        },
+        {
+            "provider_moviename": "Spiral",
+            "provider_id": 99999,
+            "moviePosterUrl": "https://assetscdn1.paytm.com/images/cinema/upcoming-55186623-4568-460c-8611-1f1c3e7099a9.jpg",
+            "movieTitle": "Spiral",
+            "movie_name": "Spiral",
+            "language": "English",
+            "genre": [
+                "Horror",
+                "Crime"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9XJLI",
+            "isContentAvailable": 1,
+            "contentId": 141872,
+            "releaseDate": null
+        }
+    ],
+    "keys": [
+        "genre",
+        "releaseDate"
+    ],
+    "languageScored": [
+        "English",
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Kannada"
+    ]
+}
